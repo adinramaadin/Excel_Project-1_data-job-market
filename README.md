@@ -5,14 +5,14 @@ In this project, I’ve completed two key components: a Salary Dashboard and a S
 
 [All data used in this project is sourced from Luke Barousse's collection; and is also stored here!](Datasets)
 
-## Salary Dashboard 
+## 1. Salary Dashboard 
 [Checkout my work here!](Project_1-Dashboard) 
 
 My goal with this project is to give both job-seekers and myself a clearer understanding of salary trends and market expectations within data roles—skills and insights that are valuable as I enter the job market.
 
 ![Screenshot 2024-11-05 210809](https://github.com/user-attachments/assets/51401d48-3590-4b49-b9f9-b715323f6a12)
 
-## Salary Analysis 
+## 2. Salary Analysis 
 [Checkout my work here!](Project_2-Analysis)
 
 By analyzing the most in-demand skills and top-paying roles, I’m aiming to fill a gap in data science career resources, providing insights for job-seekers looking to understand and negotiate their value.
