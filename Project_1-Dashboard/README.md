@@ -36,8 +36,8 @@ The dataset used in this project contains 2023 data science job information and 
 - **Insights Gained:** This visualization allows for a quick understanding of salary trends, revealing that senior positions and engineering roles generally offer higher salaries than analyst positions.
 
 - #### Country Median Salaries - Map Chart
-- 
-- ![image](https://github.com/user-attachments/assets/4eb31159-450f-4e92-9123-2b9900d38497)
+  
+![image](https://github.com/user-attachments/assets/4eb31159-450f-4e92-9123-2b9900d38497)
 
 - **Excel Features:** Used Excel's map chart for geographic visualization.
 - **Design Choice:** Color-coded to display salary levels by region, making geographic disparities more visible.
