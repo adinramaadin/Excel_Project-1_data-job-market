@@ -35,7 +35,7 @@ The dataset used in this project contains 2023 data science job information and 
 - **Data Organization:** Sorted by descending salary to improve readability and highlight high-paying roles.
 - **Insights Gained:** This visualization allows for a quick understanding of salary trends, revealing that senior positions and engineering roles generally offer higher salaries than analyst positions.
 
-- #### Country Median Salaries - Map Chart
+#### Country Median Salaries - Map Chart
   
 ![image](https://github.com/user-attachments/assets/4eb31159-450f-4e92-9123-2b9900d38497)
 
