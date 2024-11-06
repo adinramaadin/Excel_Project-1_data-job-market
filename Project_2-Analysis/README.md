@@ -37,7 +37,7 @@ It includes detailed information on:
 - **Locations**
 - **Skills**
 
-## 1. Do more skills get you better pay?
+## 1. Do more skills lead to better pay?
 
 ### Skill: Power Query (ETL)
 
@@ -57,7 +57,7 @@ It includes detailed information on:
 
 #### So What
 
-## 2. What’s the salary for data jobs in different regions?
+## 2. What are the salary ranges for data jobs in various regions?
 
 ### Skills: PivotTables & DAX
 
@@ -71,7 +71,7 @@ It includes detailed information on:
 
 #### **So What**
 
-## 3. What are the top skills of data professionals?
+## 3. Which skills are most in-demand for data professionals?
 
 ### Skill: Power Pivot
 
@@ -87,7 +87,7 @@ It includes detailed information on:
 
 #### So What
 
-## 4. What’s the pay of the top 10 skills?
+## 4. How much are the top 10 skills compensated?
 
 ### Skill: Advanced Charts (Pivot Chart)
 
