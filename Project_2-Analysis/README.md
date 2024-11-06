@@ -32,7 +32,7 @@ The dataset used in this project contains 2023 data science job information and 
 
 It includes detailed information on:
 
-- **ob titles**
+- **Job titles**
 - **Salaries**
 - **Locations**
 - **Skills**
