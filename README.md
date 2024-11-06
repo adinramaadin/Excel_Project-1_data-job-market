@@ -1,5 +1,5 @@
 # Excel_Project_data-job
-Hi! I'm a final-year Economics student actively seeking internship opportunities. Over the past months, I've been sharpening my Excel and data skills by watching tutorials on YouTube and LinkedIn Learning. Now, I want to showcase my practical abilities through this project, as I believe that simply collecting LinkedIn certificates may not be enough for hiring managers to fully appreciate my skills :)
+Hi! As of November 5, 2024, I'm a final-year Economics student actively seeking internship opportunities. Over the past months, I've been sharpening my Excel and data skills by watching tutorials on YouTube and LinkedIn Learning. Now, I want to showcase my practical abilities through this project, as I believe that simply collecting LinkedIn certificates may not be enough for hiring managers to fully appreciate my potential :)
 
 In this project, I’ve completed two key components: a Salary Dashboard and a Salary Analysis.
 
