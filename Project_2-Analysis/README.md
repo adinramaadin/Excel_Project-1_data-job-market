@@ -1,5 +1,4 @@
 
-# NOT YET FINISHED....
 # Project 2 Analysis
 
 ## Introduction
