@@ -4,18 +4,20 @@
 
 ## Introduction
 
+As someone who’s been on the job search myself, I was surprised by how little data exists on the best roles and skills in the data science market. This gap motivated me to analyze what skills top employers seek and how these skills impact salary potential.
+
 ### Questions to Analyze
 
-To understand the data science job market, I asked the following:
+In exploring the data science job market, I focused on these questions:
 
-1. **Do more skills get you better pay?**
-2. **What’s the salary for data jobs in different regions?**
-3. **What are the top skills of data professionals?**
-4. **What’s the pay for the top 10 skills?**
+1. **Do more skills lead to better pay?**
+2. **What are the salary ranges for data jobs in various regions?**
+3. **Which skills are most in-demand for data professionals?**
+4. **How much are the top 10 skills compensated?**
 
 ### Excel Skills Used
 
-The following Excel skills were utilized for analysis:
+For this analysis, I applied several Excel skills essential to data processing and visualization:
 
 - **Pivot Tables**
 - **Pivot Charts**
@@ -25,7 +27,8 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used in this project contains 2023 data science job information and is sourced from
+[Luke Barousse's collection, available here](Datasets). It includes detailed data on:
 
 It includes detailed information on:
 
@@ -39,6 +42,10 @@ It includes detailed information on:
 ### Skill: Power Query (ETL)
 
 #### Extract
+
+- Using Power Query, I extracted data from the original file (`data_salary_all.xlsx`) and set up two queries:
+    - The first query contains all job information.
+    - The second lists skills associated with each job ID.
 
 #### Transform
 
